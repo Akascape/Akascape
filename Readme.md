@@ -1,6 +1,6 @@
 ### Hi there, 👋
 ## Welcome to my github profile page!!!
-### I love to do/learn digital art🖼️, designing🌱, music🎵, vfx/effects🎞️ and many other computer related stuff...
+### I love to create & learn digital-art 🖼️, designing 🌱, music 🎵, vfx 🎞️ and many other computer related stuff...
 <br>![Akascape github stats](https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=dracula) ![Akascape github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=dracula)
 ## Main softwares I use:
 <br>[![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
