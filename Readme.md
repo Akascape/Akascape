@@ -11,4 +11,4 @@
 [![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&color=f5ff00)](https://code.visualstudio.com/)
 [![Streaming](https://img.shields.io/badge/Streaming-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
-#### I mainly use free & open source softwares/tools!
+#### I mainly use free & open source softwares & tools!
