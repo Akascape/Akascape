@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw)
 [<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape)
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=1)](https://opensourcelibs.com/lib/capsule-render)
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=1)](https://opensourcelibs.com/lib/capsule-render)
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=1)](https://opensourcelibs.com/lib/capsule-render)
+[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
+[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
+[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
 
