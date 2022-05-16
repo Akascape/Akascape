@@ -12,7 +12,7 @@
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&color=f5ff00)](https://code.visualstudio.com/)
 [![Streaming/Recording](https://img.shields.io/badge/Streaming-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 ### I mainly use free/open source softwares & tools!
-# Follow
+# Follow me
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape)
 [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw)
