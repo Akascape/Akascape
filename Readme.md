@@ -6,7 +6,7 @@
   <a href="https://github.com/nn6n">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=nn6n&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"   
+      src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"   
   </a>
 </a>
 </p>
