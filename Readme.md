@@ -16,9 +16,9 @@
 [![3d](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
 [![Video](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
 [![photo edit](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
-[![music prod](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&color=fc0100)](https://www.image-line.com/)
+[![music prod](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&logoColor=red&color=fc0100)](https://www.image-line.com/)
 [![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
-[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&color=f5ff00)](https://code.visualstudio.com/)
+[![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
 [![Streaming/Recording](https://img.shields.io/badge/Streaming-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 ### I mainly use free/open source softwares & tools!
 
