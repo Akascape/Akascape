@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Akascape!&descAlign=50&descSize=30&animation=twinkling)](https://github.com/Akascape/Akascape)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&color=timeGradient&lines=Welcome+to+my+Github+Profile+Page!;I+love+to+create+and+learn+Digital+Art.;I+love+MUSIC+🎵+and+ART+🖼️;I+love+to+do+lots+of+EXPERIMENTS!;" alt="Typing SVG" /></a></p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I+love+to+create+and+learn+Digital+Art.;I+love+MUSIC+🎵+and+ART+🖼️;I+love+to+do+lots+of+EXPERIMENTS!;" alt="Typing SVG" /></a> </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
