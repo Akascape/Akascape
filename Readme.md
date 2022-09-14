@@ -4,9 +4,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=codeSTACKr&&hide_border=true" /> <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats" /> 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=codeSTACKr&&hide_border=true" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats" /> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="700" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>
+<img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>
 
 <p align="center">
   <a href="https://github.com/nn6n">
