@@ -9,12 +9,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>
 
 <p align="center">
-  <a href="https://github.com/Akascape">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"   
-  </a>
-</a>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"   
 </p>
 
 <br> <h2 align="center"> MAIN SOFTWARES I USE </h2>
