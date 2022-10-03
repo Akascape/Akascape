@@ -2,17 +2,17 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I+love+to+create+and+learn+Digital+Art.;I+love+MUSIC+🎵+and+ART+🖼️;I+love+to+do+lots+of+EXPERIMENTS!;" alt="Typing SVG" /></a> </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ STATS ⚡</h2>
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=codeSTACKr&&hide_border=true" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats" /> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>
+<img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>    
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"   
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"   
 </p>
 
-<br> <h2 align="center"> MAIN SOFTWARES I USE </h2>
+<br> <h2 align="center"> MY MAIN SOFTWARES </h2>
 <br> <p align="center"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3d](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
@@ -24,7 +24,7 @@
 [![Streaming/Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p>
 
-<br> <h2 align="center"> FOLLOW ME </h2>
+<br> <h2 align="center"> 🌐 SOCIALS 🌐 </h2>
 <br> <p align="center"> 
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) [<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
