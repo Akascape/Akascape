@@ -1,12 +1,18 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Akascape!&descAlign=50&descSize=30&animation=twinkling)](https://github.com/Akascape/Akascape)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Akascape!&descAlign=50&descSize=30&animation=twinkling">
+</p>
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!;I+love+to+create+and+learn+Digital+Art.;I+love+MUSIC+🎵+and+ART+🖼️;I+love+to+do+lots+of+EXPERIMENTS!;" alt="Typing SVG" /></a> </p>
 
 <h2 align="center">⚡ STATS ⚡</h2>
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=codeSTACKr&&hide_border=true" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats" /> 
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=chartreuse-dark&&hide_border=true" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=react-dark" alt="drawing" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=cobalt&theme=buefy" width=300>    
+<p align="center">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Akascape&theme=chartreuse-dark&hide_border=true" alt="drawing" width="500" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akascape&show_icons=true&theme=chartreuse-dark&hide_border=true" width=300>    
+<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+</p>
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"   
@@ -30,6 +36,6 @@
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) [<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
 </p>
 
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2)](https://opensourcelibs.com/lib/capsule-render)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+</p>
