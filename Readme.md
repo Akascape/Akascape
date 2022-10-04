@@ -18,7 +18,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"   
 </p>
 
-<br> <h2 align="center"> MY MAIN SOFTWARES </h2>
+<br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
 [![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3d](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
