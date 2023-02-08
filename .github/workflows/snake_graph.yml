@@ -1,16 +1,16 @@
-name: make snek
+name: make snake_graph
 on:
   workflow_dispatch:
 jobs:
   build:
-    name: make_snek
+    name: snake_graph
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snek.svg?palette=github-dark&color_snake=#e06c9f&color_dots=#14141e,#7cb9db,#7cb9db,#7ccbd8,#7cded5
+            dist/snek.svg?palette=github-dark&color_snake=#ffffff&color_dots=#1445a2,#1f4eff,#1d65ee,#466dff
       - uses: crazy-max/ghaction-github-pages@v3.0.0
         with:
           target_branch: output
