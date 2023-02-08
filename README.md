@@ -7,8 +7,12 @@
 <h2 align="center">⚡ STATS ⚡</h2>
 
 <p align="center">
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=github_dark&&hide_border=true" /> <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akascape&theme=github_dark&show_icons=true&bg_color=0111111"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
-<br> <img align="center" width="200" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Akascape&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akascape&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akascape&theme=github_dark&show_icons=true&bg_color=0111111"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
+<img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
 </p>
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
@@ -25,10 +29,14 @@
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center"> 
-[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
-[<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) [<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
+[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) 
+[<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
+[<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) 
+[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2"> 
 </p>
