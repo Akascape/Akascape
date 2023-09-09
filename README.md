@@ -17,7 +17,6 @@
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
-
 [![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
 [![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
