@@ -33,6 +33,7 @@
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center">
+[<img src="https://img.shields.io/badge/-Website-informational?style=flat&logo=firefox&logoColor=black&color=green">](https://www.akascape.com) 
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) 
 [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) 
