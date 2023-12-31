@@ -1,5 +1,7 @@
 name: make snake_graph
 on:
+  schedule: # execute everyday at IST 00:00
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   build:
