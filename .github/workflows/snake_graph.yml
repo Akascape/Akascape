@@ -11,6 +11,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: | 
                 dist/snek_dark.svg?palette=github-dark&color_snake=#ffffff
+                dist/snek_light.svg?palette=github-light&color_snake=#7878FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v3.0.0
