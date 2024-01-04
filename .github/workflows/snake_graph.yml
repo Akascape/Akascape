@@ -6,7 +6,7 @@ jobs:
     name: snake_graph
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: | 
