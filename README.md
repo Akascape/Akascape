@@ -24,7 +24,7 @@
 [![Music Production](https://img.shields.io/badge/Audio/Music-FL_Studio-informational?style=flat&logo=Audacity&logoColor=red&color=fc0100)](https://www.image-line.com/)
 [![Compositing](https://img.shields.io/badge/Compositing-Natron-informational?style=flat&logo=NGINX&color=3cf10e)](https://natrongithub.github.io/)
 [![IDLE](https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/)
-[![Recording](https://img.shields.io/badge/Recording-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
+[![Recording](https://img.shields.io/badge/Streaming-OBS-informational?style=flat&logo=OBSStudio&color=0024ff)](https://obsproject.com/)
 </p>
 
 <div align="center">
