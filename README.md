@@ -13,6 +13,8 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+<img align="center" width="400" src="https://github.com/user-attachments/assets/3578fe3d-c239-478b-a867-7afb2cca2232">
+
 </p>
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
