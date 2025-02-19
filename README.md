@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC/CPP%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bhtml%2Chtml%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC/CPP%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bcss%2Chtml/css%2Cauto%3B" alt="GitHub Readme Tech Stack" />
   </a>
 </div>
 
