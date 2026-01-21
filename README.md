@@ -30,7 +30,6 @@
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
-[![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![3D](https://img.shields.io/badge/VFX/3D-Blender-informational?style=flat&logo=blender&logoColor=orange&color=f86604)](https://www.blender.org/)
 [![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
 [![Photo Editing](https://img.shields.io/badge/Photo-Gimp-informational?style=flat&logo=gimp&color=2bbc8a)](https://www.gimp.org/)
@@ -42,9 +41,11 @@
 
 <div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2Clua%2Cauto%3Bpython%2Cpython%2Cauto%3BC%2CC/CPP%2Cauto%3B&line2=OpenGL%2COpenGL%2Cffffff%3Bjavascript%2CJavascript%2Cauto%3B" alt="GitHub Readme Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES%20%26%20STACK&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=4&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2CLua%2Cauto%3Bpython%2CPython%2Cauto%3Bjava%2CJava%2Cauto%3B&line2=C%2CC%2Cauto%3BC%2B%2B%2CC%2B%2B%2Cauto%3Bdart%2CDart%2Cauto%3B&line3=javascript%2CJavaScript%2Cauto%3Bhtml5%2CHTML%2Cauto%3Bcss3%2CCSS%2Cauto%3B&line4=react%2CReact%2Cauto%3BOpenGL%2COpenGL%2Cffffff%3B" 
+    alt="GitHub Readme Tech Stack" />
   </a>
 </div>
+
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center">
