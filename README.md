@@ -49,11 +49,12 @@
 
 <br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
 <br> <p align="center">
-[<img src="https://img.shields.io/badge/-Website-informational?style=flat&logo=firefox&logoColor=black&color=green">](https://www.akascape.com) 
+[<img src="https://img.shields.io/badge/-Akascape.com-informational?style=flat&logo=firefox&logoColor=black&color=green">](https://www.akascape.com) 
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/Akascape) 
 [<img src="https://img.shields.io/badge/-Reddit-informational?style=flat&logo=reddit&logoColor=black&color=orange">](https://www.reddit.com/user/Akascape)
 [<img src="https://img.shields.io/badge/-YouTube-informational?style=flat&logo=youtube&logoColor=black&color=red">](https://www.youtube.com/channel/UC7naboenYq9FAo80aPUkqSw) 
-[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/Akascape) 
+[<img src="https://img.shields.io/badge/-Akascape-informational?style=flat&logo=x&logoColor=white&color=black">](https://x.com/Akascape)
+[<img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=black&color=E4405F">](https://instagram.com/Akascape_)
 <br> <a href='https://ko-fi.com/O5O6P271V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
