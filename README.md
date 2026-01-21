@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES%20%26%20STACK&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=5&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2CLua%2Cauto%3Bpython%2CPython%2Cauto%3Bjava%2CJava%2Cauto%3B&line2=C%2CC%2Cauto%3BC%2B%2B%2CC%2B%2B%2Cauto%3Bdart%2CDart%2Cauto%3B&line3=javascript%2CJavaScript%2Cauto%3Bhtml5%2CHTML%2Cauto%3Bcss3%2CCSS%2Cauto%3B&line4=react%2CReact%2Cauto%3Bvuejs%2CVueJS%2Cauto%3Bflutter%2CFlutter%2Cauto%3B&line5=OpenGL%2COpenGL%2Cffffff%3Bwebgl%2CWebGL%2Cauto%3B" 
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=5&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=lua%2CLua%2Cauto%3Bpython%2CPython%2Cauto%3Bjava%2CJava%2Cauto%3B&line2=C%2CC%2Cauto%3BC%2B%2B%2CC%2B%2B%2Cauto%3Bdart%2CDart%2Cauto%3B&line3=javascript%2CJavaScript%2Cauto%3Bhtml5%2CHTML%2Cauto%3Bcss3%2CCSS%2Cauto%3B&line4=react%2CReact%2Cauto%3Bvuejs%2CVueJS%2Cauto%3Bflutter%2CFlutter%2Cauto%3B&line5=OpenGL%2COpenGL%2Cffffff%3Bwebgl%2CWebGL%2Cauto%3B" 
     alt="GitHub Readme Tech Stack" />
   </a>
 </div>
