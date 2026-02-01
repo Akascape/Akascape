@@ -13,18 +13,26 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
-<a href="https://sih.gov.in/sih2024/sih2024-grand-finale-result#:~:text=Team%20Terabyte-,Akash%20Bora,-Winner"
-   target="_blank"
-   rel="noopener noreferrer"
-   title="Smart India Hackathon 2024 Winner – Akash Bora">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://sih.gov.in/sih2024/sih2024-grand-finale-result#:~:text=Team%20Terabyte-,Akash%20Bora,-Winner"
+     target="_blank"
+     rel="noopener noreferrer"
+     title="Smart India Hackathon 2024 Winner – Akash Bora">
+    <img 
+      src="https://github.com/user-attachments/assets/3578fe3d-c239-478b-a867-7afb2cca2232"
+      width="400"
+      loading="lazy"
+      alt="Akascape from Team Terabyte winning Smart India Hackathon 2024 Grand Finale under BEL"
+    >
+  </a>
+
   <img 
-    src="https://github.com/user-attachments/assets/3578fe3d-c239-478b-a867-7afb2cca2232"
-    width="400"
-    align="center"
-    loading="lazy"
-    alt="Akash Bora from Team Terabyte winning Smart India Hackathon 2024 Grand Finale"
-  >
-</a>
+    src="https://github.com/user-attachments/assets/6f1b549b-d4ba-4ec3-adf5-b8217a2e1194" 
+    width="220" 
+    height="250" 
+    alt="Google-Student-Ambassador-Program-Akascape" 
+  />
+</div>
 
 </p>
 
