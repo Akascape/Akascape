@@ -27,11 +27,16 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/6f1b549b-d4ba-4ec3-adf5-b8217a2e1194" 
-           width="200" 
-           height="250" 
-           alt="Akascape Google Student Ambassador Program Recognition" 
-           title="Google Student Ambassador">
+      <a href="https://grow.google/intl/ALL_in/ai-skills/" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         title="Google AI Skills Program">
+        <img src="https://github.com/user-attachments/assets/6f1b549b-d4ba-4ec3-adf5-b8217a2e1194" 
+             width="200" 
+             height="250" 
+             alt="Akascape Google Student Ambassador Program Recognition" 
+             title="Google Student Ambassador">
+      </a>
     </td>
   </tr>
 </table>
