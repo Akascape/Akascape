@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle" style="padding-top: 15px;">
-      <a href="https://summerofcode.withgoogle.com/programs/2026/organizations/gnu-image-manipulation-program" 
+      <a href="https://summerofcode.withgoogle.com/programs/2026/projects/FOTN5k6d" 
          target="_blank" 
          rel="noopener noreferrer"
          title="Google Summer of Code 2026">
