@@ -38,9 +38,20 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle" style="padding-top: 15px;">
+      <a href="https://summerofcode.withgoogle.com/programs/2026/organizations/gnu-image-manipulation-program" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         title="Google Summer of Code 2026">
+        <img src="https://github.com/user-attachments/assets/167d8b9a-0da4-4bed-81b5-247f4275beb4" 
+             width="600" 
+             alt="GSoC Banner" 
+             title="Selected for GSoC 2026 - GNU Image Manipulation Program">
+      </a>
+    </td>
+  </tr>
 </table>
-
-</p>
 
 <br> <h2 align="center">⚙️ TECH STACK ⚙️ </h2>
 <br> <p align="center"> 
