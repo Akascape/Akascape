@@ -13,6 +13,8 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Akascape&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <img src="https://raw.githubusercontent.com/Akascape/Akascape/output/snek.svg">
 <img align="center" width="150" src="https://komarev.com/ghpvc/?username=Akascape&label=PROFILE+VIEWS&style=flat-square">
+
+<h2 align="center">🏆 ACHIEVEMENTS 🏆</h2>
 <table align="center" border="0" role="presentation">
   <tr>
     <td align="center" valign="middle">
